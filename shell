@@ -1,0 +1,21 @@
+Shell is default ui in linux system
+CLI - powerful CLI can rename 100 plus doc in single 
+root access is typically restricted to system admin
+root access to install, start or stop application
+
+[user@server] $
+~ - home directory or your or account home directory
+~json = /home/json
+~pat = home/pat
+~root = /root - 
+~ftp = /var/ftp - service have own account - ftp service account
+
+$pwd = presnt working directory
+cd = change your present working directory
+ls =  list all directories
+ls -l =  long list format
+cat = show the content of files
+clear = clear the screen
+man ls = to display documentation
+q = quit
+exit = exit
